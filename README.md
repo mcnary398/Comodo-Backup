@@ -216,4 +216,4 @@ Comodo Backup is the full free version with all features and updates included, e
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-18 22:50:10 UTC
+**Last updated:** 2026-10-19 00:53:32 UTC
